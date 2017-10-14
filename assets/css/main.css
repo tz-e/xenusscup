@@ -1587,6 +1587,10 @@
 			color: #e44c65 !important;
 			border-bottom-color: transparent;
 		}
+        hehe:hover{
+            color: #272832 !important;
+            border-bottom-color: transparent;
+        }
 
 	strong, b {
 		color: #ffffff;
